@@ -1,0 +1,13 @@
+{
+  "name": "some_test_package_123",
+  "type": "package",
+  "blockId": "nVMWX1Et7VRHJSRGE1xlq",
+  "source": {
+    "https": "https://github.com/mohdmusthafaneo/some_test_package_123",
+    "ssh": "git@github.com:mohdmusthafaneo/some_test_package_123.git"
+  },
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "multi"
+}
